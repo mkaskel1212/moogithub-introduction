@@ -17,3 +17,5 @@ Command:
 5). Commit file
     git commit -m "Whatever note I want to add in regard to this update"
 
+6). Uploading local repository to remote (Github Website) repository
+    git push origin master
